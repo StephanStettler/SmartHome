@@ -21,7 +21,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:435px;
+  width:434px;
   height:37px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -30,7 +30,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Arial-BoldMT', 'Arial Fett', 'Arial', sans-serif;
+  font-family:'Arial Fett', 'Arial Standard', 'Arial', sans-serif;
   font-weight:700;
   font-style:normal;
 }
@@ -39,10 +39,10 @@
   position:absolute;
   left:312px;
   top:188px;
-  width:435px;
+  width:434px;
   height:37px;
   display:flex;
-  font-family:'Arial-BoldMT', 'Arial Fett', 'Arial', sans-serif;
+  font-family:'Arial Fett', 'Arial Standard', 'Arial', sans-serif;
   font-weight:700;
   font-style:normal;
 }
@@ -72,7 +72,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial', sans-serif;
+  font-family:'Arial Fett', 'Arial Standard', 'Arial', sans-serif;
   font-weight:700;
   font-style:normal;
 }
@@ -84,7 +84,7 @@
   width:1px;
   height:28px;
   display:flex;
-  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial', sans-serif;
+  font-family:'Arial Fett', 'Arial Standard', 'Arial', sans-serif;
   font-weight:700;
   font-style:normal;
 }

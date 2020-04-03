@@ -59,7 +59,7 @@
   width:300px;
   height:25px;
   padding:3px 2px 3px 2px;
-  font-family:'ArialMT', 'Arial', sans-serif;
+  font-family:'Arial Standard', 'Arial', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -78,7 +78,7 @@
   width:300px;
   height:25px;
   padding:3px 2px 3px 2px;
-  font-family:'ArialMT', 'Arial', sans-serif;
+  font-family:'Arial Standard', 'Arial', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -151,7 +151,7 @@
   width:300px;
   height:25px;
   padding:3px 2px 3px 2px;
-  font-family:'ArialMT', 'Arial', sans-serif;
+  font-family:'Arial Standard', 'Arial', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -170,7 +170,7 @@
   width:300px;
   height:25px;
   padding:3px 2px 3px 2px;
-  font-family:'ArialMT', 'Arial', sans-serif;
+  font-family:'Arial Standard', 'Arial', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -241,7 +241,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:98px;
+  width:104px;
   height:19px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -254,9 +254,9 @@
 #u3 {
   border-width:0px;
   position:absolute;
-  left:197px;
+  left:198px;
   top:479px;
-  width:98px;
+  width:104px;
   height:19px;
   display:flex;
 }
@@ -290,7 +290,7 @@
 #u4 {
   border-width:0px;
   position:absolute;
-  left:197px;
+  left:198px;
   top:501px;
   width:129px;
   height:19px;
@@ -352,7 +352,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:277px;
+  width:276px;
   height:37px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -361,7 +361,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial', sans-serif;
+  font-family:'Arial Fett', 'Arial Standard', 'Arial', sans-serif;
   font-weight:700;
   font-style:normal;
 }
@@ -370,10 +370,10 @@
   position:absolute;
   left:194px;
   top:308px;
-  width:277px;
+  width:276px;
   height:37px;
   display:flex;
-  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial', sans-serif;
+  font-family:'Arial Fett', 'Arial Standard', 'Arial', sans-serif;
   font-weight:700;
   font-style:normal;
 }
