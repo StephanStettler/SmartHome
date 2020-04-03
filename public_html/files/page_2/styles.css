@@ -2,8 +2,8 @@
   margin:0px;
   background-image:none;
   position:relative;
-  left:-238px;
-  width:189px;
+  left:-312px;
+  width:435px;
   margin-left:auto;
   margin-right:auto;
   text-align:left;
@@ -21,7 +21,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:189px;
+  width:435px;
   height:37px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -30,19 +30,19 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial', sans-serif;
+  font-family:'Arial-BoldMT', 'Arial Fett', 'Arial', sans-serif;
   font-weight:700;
   font-style:normal;
 }
 #u7 {
   border-width:0px;
   position:absolute;
-  left:238px;
-  top:160px;
-  width:189px;
+  left:312px;
+  top:188px;
+  width:435px;
   height:37px;
   display:flex;
-  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial', sans-serif;
+  font-family:'Arial-BoldMT', 'Arial Fett', 'Arial', sans-serif;
   font-weight:700;
   font-style:normal;
 }
@@ -79,8 +79,8 @@
 #u8 {
   border-width:0px;
   position:absolute;
-  left:238px;
-  top:219px;
+  left:312px;
+  top:247px;
   width:1px;
   height:28px;
   display:flex;
@@ -119,8 +119,8 @@
 #u9 {
   border-width:0px;
   position:absolute;
-  left:241px;
-  top:219px;
+  left:315px;
+  top:247px;
   width:186px;
   height:55px;
   display:flex;
@@ -158,8 +158,8 @@
 #u10 {
   border-width:0px;
   position:absolute;
-  left:238px;
-  top:297px;
+  left:312px;
+  top:325px;
   width:140px;
   height:40px;
   display:flex;
@@ -197,8 +197,8 @@
 #u11 {
   border-width:0px;
   position:absolute;
-  left:238px;
-  top:345px;
+  left:312px;
+  top:373px;
   width:140px;
   height:40px;
   display:flex;
@@ -236,8 +236,8 @@
 #u12 {
   border-width:0px;
   position:absolute;
-  left:238px;
-  top:391px;
+  left:312px;
+  top:419px;
   width:140px;
   height:40px;
   display:flex;
@@ -253,4 +253,34 @@
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
+}
+#u13_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:239px;
+  height:225px;
+}
+#u13 {
+  border-width:0px;
+  position:absolute;
+  left:508px;
+  top:234px;
+  width:239px;
+  height:225px;
+  display:flex;
+}
+#u13 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u13_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
 }
