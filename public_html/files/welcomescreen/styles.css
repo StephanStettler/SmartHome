@@ -119,7 +119,7 @@
 #u10 {
   border-width:0px;
   position:absolute;
-  left:315px;
+  left:312px;
   top:247px;
   width:186px;
   height:55px;
@@ -254,37 +254,7 @@
   word-wrap:break-word;
   text-transform:none;
 }
-#u14_img {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:239px;
-  height:225px;
-}
-#u14 {
-  border-width:0px;
-  position:absolute;
-  left:508px;
-  top:282px;
-  width:239px;
-  height:225px;
-  display:flex;
-}
-#u14 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u14_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-  visibility:hidden;
-}
-#u15_div {
+#u14_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -299,12 +269,48 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
+#u14 {
+  border-width:0px;
+  position:absolute;
+  left:312px;
+  top:502px;
+  width:49px;
+  height:19px;
+  display:flex;
+}
+#u14 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u14_text {
+  border-width:0px;
+  white-space:nowrap;
+  text-transform:none;
+}
+#u15_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:122px;
+  height:19px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
 #u15 {
   border-width:0px;
   position:absolute;
   left:312px;
-  top:519px;
-  width:49px;
+  top:527px;
+  width:122px;
   height:19px;
   display:flex;
 }
@@ -320,28 +326,21 @@
   white-space:nowrap;
   text-transform:none;
 }
-#u16_div {
+#u16_img {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:122px;
-  height:19px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 0);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
+  width:258px;
+  height:212px;
 }
 #u16 {
   border-width:0px;
   position:absolute;
-  left:312px;
-  top:544px;
-  width:122px;
-  height:19px;
+  left:489px;
+  top:247px;
+  width:258px;
+  height:212px;
   display:flex;
 }
 #u16 .text {
@@ -353,6 +352,7 @@
 }
 #u16_text {
   border-width:0px;
-  white-space:nowrap;
+  word-wrap:break-word;
   text-transform:none;
+  visibility:hidden;
 }
