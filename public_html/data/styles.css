@@ -80,6 +80,14 @@
   color:#000000;
   text-align:left;
 }
+.text_area {
+  color:#000000;
+  text-align:left;
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
 .list_box {
   color:#000000;
   text-align:left;
@@ -95,5 +103,7 @@
   color:#999999;
 }
 .form_disabled {
+}
+.icon {
 }
 textarea, select, input, button { outline: none; }
